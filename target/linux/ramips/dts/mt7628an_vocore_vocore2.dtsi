@@ -1,7 +1,5 @@
 #include "mt7628an.dtsi"
 
-#include <dt-bindings/gpio/gpio.h>
-
 / {
 	compatible = "vocore,vocore2", "mediatek,mt7628an-soc";
 
